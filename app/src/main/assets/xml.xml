@@ -1,0 +1,14 @@
+<Items>
+    <ItemsData>
+        <ItemNumber>ABC</ItemNumber>
+        <Weight>10.00</Weight>
+        <Description>ABC item Description</Description>
+        <Price>100</Price>
+    </ItemsData>
+    <ItemsData>
+        <ItemNumber>DEF</ItemNumber>
+        <Weight>20.00</Weight>
+        <Description>DEF item Description</Description>
+        <Price>200</Price>
+    </ItemsData>
+</Items>
